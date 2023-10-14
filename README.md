@@ -10,3 +10,5 @@ The purpose of this exercise is simple - make the tests pass.
 
 ## 04 - Hoisting
 
+## 05 - Object Comparison
+
