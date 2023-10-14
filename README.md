@@ -2,7 +2,7 @@
 
 The purpose of this exercise is simple - make the tests pass.
 
-## 01 - Primtives
+## 01 - Primitives
 
 ## 02 - Scope
 
