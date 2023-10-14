@@ -1,6 +1,6 @@
 function calculate() {
     a = 4;
-    var a;
+    let a;
     b = 2;
     return a * b; // Should return 12
 }

@@ -8,3 +8,5 @@ The purpose of this exercise is simple - make the tests pass.
 
 ## 03 - Closures
 
+## 04 - Hoisting
+
