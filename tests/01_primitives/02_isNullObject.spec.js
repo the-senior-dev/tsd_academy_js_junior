@@ -1,4 +1,4 @@
-const isNullObject = require('../../01_primitives/02_isNullObject');
+const isNullObject = require('../../src/01_primitives/02_isNullObject');
 
 test('Check if null is an "object" (Special Exercise)', () => {
   expect(isNullObject(null)).toBe(true);

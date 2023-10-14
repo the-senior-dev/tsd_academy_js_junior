@@ -1,4 +1,4 @@
-const getDataType = require('../../01_primitives/01_getDataType');
+const getDataType = require('../../src/01_primitives/01_getDataType');
 
 test('Check data type of "Hello, world!"', () => {
   expect(getDataType("Hello, world!")).toBe("string");
