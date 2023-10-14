@@ -1,4 +1,4 @@
-const makeMultiplier = require('../../src/02_closures/makeMultiplier');
+const makeMultiplier = require('../../src/03_closures/makeMultiplier');
 
 test('Check multiplier function for 2', () => {
   const multiplyByTwo = makeMultiplier(2);
