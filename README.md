@@ -1,28 +1,111 @@
-# TSD Academy - JavaScript Junior Action Item
+# TSD Academy - JavaScript Junior Action Item 🚀
 
-The purpose of this exercise is simple - make the tests pass.
+The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass. 🎯
 
-## 01 - Primitives
+## Getting Started 🛠️
 
-## 02 - Scope
+1. Clone this repository.
+2. Run `npm install` to install dependencies.
+3. Navigate to each exercise folder and run `npm test` to run the Jest tests.
 
-## 03 - Closures
+---
 
-## 04 - Hoisting
+## 01 - Primitives 🎈
 
-## 05 - Logic & Control Flow
+Understand the basic data types in JavaScript.
 
-## 06 - Arrays
+- String
+- Number
+- BigInt
+- Boolean
+- Symbol
+- Null
+- Undefined
 
-## 07 - Objects
+---
 
-## 08 - Objects
+## 02 - Scope 🌌
 
-## 08 - Object Comparison
+Learn about the different scopes in JavaScript.
 
-## 09 - Pass By Reference v.s. Pass By Value
+- Global Scope
+- Function Scope
+- Block Scope
 
-## 10 - The Module System - Introduction
+---
 
+## 03 - Closures 📦
 
+Get a grasp on how closures work.
 
+- What are closures?
+- Why are they useful?
+
+---
+
+## 04 - Hoisting ⬆️
+
+Dive into the JavaScript hoisting mechanism.
+
+- What gets hoisted?
+- What doesn't?
+
+---
+
+## 05 - Logic & Control Flow 🔄
+
+Practice the control flow statements in JavaScript.
+
+- `if`, `else if`, `else`
+- `while` loop
+- `for` loop
+
+---
+
+## 06 - Objects 🏢
+
+Learn about the characteristics of objects.
+
+- Properties
+- Methods
+- Object Equality
+
+---
+
+## 07 - Arrays 🍇
+
+Understand the different aspects of arrays.
+
+- Creating Arrays
+- Array Methods
+- Multi-dimensional Arrays
+
+---
+
+## 08 - The Module System - Introduction 📚
+
+Explore the different strategies for module management in JavaScript.
+
+- Global Namespace
+- IIFE
+- Namespacing
+- CommonJS
+- AMD
+- ES Modules
+
+---
+
+## Resources 📚
+
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+---
+
+## Author 👩‍💻
+
+- **Your Name**
+
+---
+
+Good luck! Feel free to ask questions if you're stuck. Happy coding! 💻✨
