@@ -10,6 +10,7 @@ function makeMultiplier(multiplier) {
   // Your code here
   return function(x) {
     // Your code here
+    return x * multiplier;
   }
 }
 

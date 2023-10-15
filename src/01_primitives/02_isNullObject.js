@@ -6,6 +6,7 @@
  */
 function isNullObject(variable) {
     // Your code here
+    return variable === null && typeof variable === 'object';
   }
   
   module.exports = isNullObject;
