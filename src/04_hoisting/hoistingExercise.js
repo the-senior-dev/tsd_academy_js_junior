@@ -1,7 +1,6 @@
 function calculate() {
-    a = 4;
-    let a;
-    b = 3;
+    const a = 4;
+    const b = 3;
     return a * b; // Should return 12
 }
 
