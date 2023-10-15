@@ -1,4 +1,4 @@
-const sumFirstNNumbers = require("../../logic_control_flow/sumFirstNNumbers");
+const sumFirstNNumbers = require("../../src/05_logic_control_flow/sumFirstNNumbers");
 
 test("Sum of first N numbers using for loop", () => {
     expect(sumFirstNNumbers(5)).toBe(15);

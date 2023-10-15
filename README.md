@@ -42,7 +42,7 @@ Run the tests for this section:
 npm test 02_scope
 ```
 
-Make the test pass by completing the code in [02_scope](src/02_scope).
+Make the tests pass by completing the code in [02_scope](src/02_scope).
 
 ---
 
@@ -59,7 +59,7 @@ Run the tests for this section:
 npm test 03_closures
 ```
 
-Make the test pass by completing the code in [02_scope](src/02_scope).
+Make the tests pass by completing the code in [03_closures](src/03_closures).
 
 
 ---
@@ -71,15 +71,28 @@ Dive into the JavaScript hoisting mechanism.
 - What gets hoisted?
 - What doesn't?
 
+Run the tests for this section:
+```bash
+npm test 04_hoisting
+```
+
+Make the tests pass by completing the code in [04_hoisting](src/04_hoisting).
+
 ---
 
 ## 05 - Logic & Control Flow 🔄
 
 Practice the control flow statements in JavaScript.
 
-- `if`, `else if`, `else`
 - `while` loop
 - `for` loop
+
+Run the tests for this section:
+```bash
+npm test 05_logic_control_flow
+```
+
+Make the tests pass by completing the code in [05_logic_control_flow](src/05_logic_control_flow).
 
 ---
 
@@ -91,6 +104,13 @@ Learn about the characteristics of objects.
 - Methods
 - Object Equality
 
+Run the tests for this section:
+```bash
+npm test 06_objects
+```
+
+Make the tests pass by completing the code in [06_objects](src/06_objects/).
+
 ---
 
 ## 07 - Arrays 🍇
@@ -100,6 +120,14 @@ Understand the different aspects of arrays.
 - Creating Arrays
 - Array Methods
 - Multi-dimensional Arrays
+
+
+Run the tests for this section:
+```bash
+npm test 07_arrays
+```
+
+Make the tests pass by completing the code in [07_arrays](src/07_arrays).
 
 ---
 
@@ -113,6 +141,13 @@ Explore the different strategies for module management in JavaScript.
 - CommonJS
 - AMD
 - ES Modules
+
+Run the tests for this section:
+```bash
+npm test 08_module_system
+```
+
+Make the tests pass by completing the code in [08_module_system](src/08_module_system).
 
 ---
 

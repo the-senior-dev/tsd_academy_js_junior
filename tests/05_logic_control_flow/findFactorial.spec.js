@@ -1,4 +1,4 @@
-const findFactorial = require("../../src/05_logic_control_flow/03_findFactorial");
+const findFactorial = require("../../src/05_logic_control_flow/findFactorial");
 
 test("Find factorial using while loop", () => {
     expect(findFactorial(5)).toBe(120);

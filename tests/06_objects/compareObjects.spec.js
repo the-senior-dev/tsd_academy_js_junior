@@ -1,4 +1,4 @@
-const compareObjects = require('../05_object_comparison/compareObjects');
+const compareObjects = require('../../src/06_objects/compareObjects');
 
 test('compares two objects with the same properties and values', () => {
   expect(compareObjects({ a: 1, b: 2 }, { a: 1, b: 2 })).toBe(true);
