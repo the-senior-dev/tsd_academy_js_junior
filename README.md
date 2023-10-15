@@ -131,26 +131,6 @@ Make the tests pass by completing the code in [07_arrays](src/07_arrays).
 
 ---
 
-## 08 - The Module System - Introduction 📚
-
-Explore the different strategies for module management in JavaScript.
-
-- Global Namespace
-- IIFE
-- Namespacing
-- CommonJS
-- AMD
-- ES Modules
-
-Run the tests for this section:
-```bash
-npm test 08_module_system
-```
-
-Make the tests pass by completing the code in [08_module_system](src/08_module_system).
-
----
-
 ## Resources 📚
 
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)

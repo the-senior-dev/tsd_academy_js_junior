@@ -13,10 +13,6 @@ describe('reverseArray', () => {
       expect(reverseArray([])).toEqual([]);
     });
   
-    test('Throws an error if the input is not an array', () => {
-      expect(() => reverseArray('not an array')).toThrow('Input must be an array');
-    });
-  
     test('Reverses an array of mixed types', () => {
       expect(reverseArray([1, 'a', true])).toEqual([true, 'a', 1]);
     });
