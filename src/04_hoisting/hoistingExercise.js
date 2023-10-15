@@ -1,6 +1,6 @@
 function calculate() {
-    let a = 4;
-    let b = 2;
+    const a = 4;
+    const b = 3;
     return a * b; // Should return 12
 }
 
