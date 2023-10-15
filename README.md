@@ -1,6 +1,6 @@
 ### TSD Academy - JavaScript Junior Action Item 🚀
 
-The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass. 🎯
+The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
 ### Getting Started 🛠️
 
@@ -23,7 +23,7 @@ The tests should fail like this:
 
 Implement the following functions to make the tests pass:
 1. [getDataType](src/01_primitives/01_getDataType.js)
-2. [isNullObject(src/01_primitives/02_isNullObject.js)]
+2. [isNullObject](src/01_primitives/02_isNullObject.js)
 
 ⚠️ Run the tests again and make sure they pass before you move on! ⚠️ 
 
@@ -37,6 +37,13 @@ Learn about the different scopes in JavaScript.
 - Function Scope
 - Block Scope
 
+Run the tests for this section:
+```bash
+npm test 02_scope
+```
+
+Make the test pass by completing the code in [02_scope](src/02_scope).
+
 ---
 
 ## 03 - Closures 📦
@@ -45,6 +52,15 @@ Get a grasp on how closures work.
 
 - What are closures?
 - Why are they useful?
+
+
+Run the tests for this section:
+```bash
+npm test 03_closures
+```
+
+Make the test pass by completing the code in [02_scope](src/02_scope).
+
 
 ---
 
