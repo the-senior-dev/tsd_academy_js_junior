@@ -2,13 +2,18 @@
 
 The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
+![theSeniorDev](/docs/mastery_cover.png)
+
 ### Getting Started 🛠️
 
 1. Run `npm install` to install dependencies.
 2. Run `npm test` to run the Jest tests.
 3. Make all the test pass by completing the exercises for each topic.
 
-![theSeniorDev](/docs/mastery_cover.png)
+At the end of the exercise all the test should pass:
+![all-test-pass](docs/all-tests-pass.png)
+
+
 
 ---
 
