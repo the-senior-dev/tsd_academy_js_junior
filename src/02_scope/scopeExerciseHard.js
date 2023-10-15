@@ -14,7 +14,7 @@ function mainFunction() {
       return x + y;  // y is not defined here!
     }
   
-    return firstFunction() + secondFunction();  // Should return 50
+    return firstFunction() + secondFunction();  // Should return 25
   }
   
   module.exports = mainFunction;
