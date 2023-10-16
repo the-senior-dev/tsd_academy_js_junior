@@ -1,3 +1,4 @@
+// Fix the code below to make the function return 12
 function calculate() {
     a = 4;
     let a;
