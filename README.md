@@ -14,6 +14,11 @@ At the end of the exercise all the test should pass:
 ![all-test-pass](docs/all-tests-pass.png)
 
 
+---
+
+⚠️⚠️⚠️ 
+**Do not use AI tools like Copilot or ChatGPT to solve this Action Item. In most interviews, you will be asked to disabled those.**⚠️⚠️⚠️
+
 
 ---
 
