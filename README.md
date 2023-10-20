@@ -1,4 +1,4 @@
-### TSD Academy - JavaScript Junior Action Item 🚀
+## TSD Academy - JavaScript Junior Action Item 🚀
 
 The purpose of this exercise package is simple - to help you understand fundamental JavaScript concepts. Your goal is to make the tests pass in a TDD(Test-Driven-Development) fashion. 🎯
 
