@@ -7,7 +7,7 @@ The purpose of this exercise package is simple - to help you understand fundamen
 ### Getting Started 🛠️
 
 1. Run `npm install` to install dependencies.
-2. Run `npm test` to run the Jest tests.
+2. Run `npm test` to run the Jest tests and `npm run test:watch` to run them in `watch` mode.
 3. Make all the test pass by completing the exercises for each topic.
 
 At the end of the exercise all the test should pass:
@@ -26,7 +26,7 @@ At the end of the exercise all the test should pass:
 
 Understand the basic data types in JavaScript. In your terminal run:
 ```bash
-npm test 01_primitives
+npm run test:watch 01_primitives
 ```
 The tests should fail like this:
 ![test-fail](docs/01_primitives_test_pass.png)
@@ -49,7 +49,7 @@ Learn about the different scopes in JavaScript.
 
 Run the tests for this section:
 ```bash
-npm test 02_scope
+npm run test:watch 02_scope
 ```
 
 Make the tests pass by completing the code in [02_scope](src/02_scope).
@@ -66,7 +66,7 @@ Get a grasp on how closures work.
 
 Run the tests for this section:
 ```bash
-npm test 03_closures
+npm run test:watch 03_closures
 ```
 
 Make the tests pass by completing the code in [03_closures](src/03_closures).
@@ -83,7 +83,7 @@ Dive into the JavaScript hoisting mechanism.
 
 Run the tests for this section:
 ```bash
-npm test 04_hoisting
+npm run test:watch 04_hoisting
 ```
 
 Make the tests pass by completing the code in [04_hoisting](src/04_hoisting).
@@ -99,7 +99,7 @@ Practice the control flow statements in JavaScript.
 
 Run the tests for this section:
 ```bash
-npm test 05_logic_control_flow
+npm run test:watch 05_logic_control_flow
 ```
 
 Make the tests pass by completing the code in [05_logic_control_flow](src/05_logic_control_flow).
@@ -116,7 +116,7 @@ Learn about the characteristics of objects.
 
 Run the tests for this section:
 ```bash
-npm test 06_objects
+npm run test:watch 06_objects
 ```
 
 Make the tests pass by completing the code in [06_objects](src/06_objects/).
@@ -134,7 +134,7 @@ Understand the different aspects of arrays.
 
 Run the tests for this section:
 ```bash
-npm test 07_arrays
+npm run test:watch 07_arrays
 ```
 
 Make the tests pass by completing the code in [07_arrays](src/07_arrays).

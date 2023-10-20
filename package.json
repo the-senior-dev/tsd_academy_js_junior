@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
+  "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
-  },
-  "scripts": {
-    "test": "jest "
   },
   "author": "",
   "license": "ISC",
